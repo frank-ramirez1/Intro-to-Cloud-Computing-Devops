@@ -24,3 +24,17 @@
 #### - Data, application code, and programs stored digitally i.e. OS or a document editor.
 ### In cloud computing all elements related to hardware and software use the same terms. 
 ### Virtual cloud hardware still uses the same physical aspects. This is configure using specialized software in a web-based control panel. Software can also run in a cloud environment.
+## The Four Pillar of an IT Framework
+### Infrastructure
+A set of IT components that are the foundation of an IT service: typically physical components such as computer and networking hardware and facilities but also various software and network components.
+### Development
+#### Development life cycle:
+- Conceptualizing software
+- Defining requirements
+- Designing how it will work
+- Programming it
+- Documenting its functionality
+- Testing against the requirements
+- Bug fixiing any issues.
+### Security
+### Data
