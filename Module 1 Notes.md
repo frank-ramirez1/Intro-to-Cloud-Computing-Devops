@@ -1,40 +1,63 @@
 # Module 1 Notes
-## What is Information Technology(IT)
-### Cloud computing is a of subset IT
-#### - Cloud computing uses the same terms in relations to governance, operations,software,hardware and infrastruction as traditional IT.
-### Topics that we will go over are:
-#### - Compute
-#### - Storage
-#### - Networking
-#### - Security, identity, and comliance
-#### - Billing and cost management
-#### - Management and governance
+## Introduction to cloud computing
 
-## Why is Information Technology Important?
-### Businesses, schools, and organizations rely on computers and networks that connect them.
-### Needs that current and future IT specialist will be working on:
-#### - Data Overload: Businesses process huge amounts of data. Requiring large amounts of processing power, sophisticated software and human analytical skills
-#### - Mobile and Wireless Usages: Employers are offering remote work options that require smartphones, tablets and laptops with wireless hotspots and roaming ability.
-### Employment in IT is expected to grow 12% from 2018 to 2028.
+### Cloud computing the the on demand delivery of compute power, database, storage, applications and other resource over the internet
 
-## Hardware vs Software
-### Hardware: includes all physical aspects of IT systems that you can touch.
-#### - Motherboard, CPU, RAM, Hard drives, keyboard, mouse.
-### Software: Is data stored on hardware device that you can access or use to complete a task.
-#### - Data, application code, and programs stored digitally i.e. OS or a document editor.
-### In cloud computing all elements related to hardware and software use the same terms. 
-### Virtual cloud hardware still uses the same physical aspects. This is configure using specialized software in a web-based control panel. Software can also run in a cloud environment.
-## The Four Pillar of an IT Framework
-### Infrastructure
-A set of IT components that are the foundation of an IT service: typically physical components such as computer and networking hardware and facilities but also various software and network components.
-### Development
-#### Development life cycle:
-- Conceptualizing software
-- Defining requirements
-- Designing how it will work
-- Programming it
-- Documenting its functionality
-- Testing against the requirements
-- Bug fixiing any issues.
-### Security
-### Data
+### Cloud computing is pay as you go
+
+### All traditional IT hardware is available over the internet 
+#### - the vendor has data centers
+
+### Procurement time reduced drastically 
+
+### Resource can be increased or decreased as needed
+
+### There are different types of cloud service models
+#### - IaaS (infrastructure as a service)
+   ##### - Highest level of control
+   ##### - Similar to traditional IT models
+#### - Pass (platform as a service)
+  ##### - Removes the need to manage OS and Hardware
+#### - SaaS (software as a service)
+  ##### - Is end-users applications 
+  ##### - Less control over IT
+
+### Three cloud deployment models 
+#### - Cloud 
+#### - Hybrid
+#### - On-premises (Private cloud)
+
+### Advantages of the cloud
+
+### Six benefits 
+#### - Trade capital expense for variable expense
+#### - Massive economies of scale
+#### - Stop guessing capacity 
+#### - Increased speed and agility
+#### - Stop spending money on running and maintaining a data center 
+#### - Go global in minutes
+
+### Intro to AWS
+
+#### Web service is any piece of software that makes itself available on the internet or private network
+
+#### AWS offers a broad set of global cloud-based services
+
+#### Is managed by AWS management console, AWS CLI and software development kits
+
+#### Services fall under different categories which depend on business goals and tech requirements 
+
+
+### Moving to AWS Cloud
+
+#### AWS cloud adoption framework - provide guidance and best practices to help organizations
+
+### It is organized into six perspectives
+#### Business Capabilities
+##### - Business
+#### - People
+#### - Governance
+### Technical Capabilities
+#### - Platform
+#### - Security
+#### - Operations
