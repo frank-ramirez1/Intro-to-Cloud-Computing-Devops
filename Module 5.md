@@ -15,7 +15,7 @@
 #### - Gives you control over your virtual networking resources
   #####  - Selection of IP address range
   #####  - Creation of subnets
-  ###### - Configuration of route tables and network gateways
+  ##### - Configuration of route tables and network gateways
 #### - Enables you to customize the network configuration for your VPC
 #### - Enables you to use multiple layers of security
 
